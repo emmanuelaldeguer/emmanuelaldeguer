@@ -1,3 +1,5 @@
+[![banner-okp4](banner-okp4.png)](https://okp4.network)
+
 ### Hi there 👋
 
 I'm the CEO at [@OKP4](https://okp4.network). Over 20 years of experience in marketing and business development.
@@ -9,4 +11,4 @@ I'm the CEO at [@OKP4](https://okp4.network). Over 20 years of experience in mar
 -------
 
 ✨ The data sharing infrastructure of tomorrow and the associated trillion-dollar-industry will shape the future of mankind. Let's make it decentralized!
-And tomorrow it all begins!
+And tomorrow it all begins! ✨
