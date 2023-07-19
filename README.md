@@ -1,4 +1,5 @@
-[![banner-okp4](banner-okp4.png)](https://okp4.network)
+![image](https://github.com/emmanuelaldeguer/emmanuelaldeguer/assets/105917321/c8fcd08e-893e-4e0b-98ec-b4eca13930ff)
+
 
 ### Hi there 👋
 
