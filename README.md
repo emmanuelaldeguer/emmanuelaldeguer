@@ -1,4 +1,4 @@
-(/profile/static/axone-banner.png)](https://axone.xyz)
+/profile/static/axone-banner.png](https://axone.xyz)
 
 
 ### Hi there 👋
