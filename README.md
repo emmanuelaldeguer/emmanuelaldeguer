@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm the CEO at [@OKP4](https://okp4.network). Over 20 years of experience in marketing and business development.
+I'm the CEO at [@AXone](https://axone.xyz). Over 20 years of experience in marketing and business development.
 
 - 💪 Strong entrepreneurial spirit
 
