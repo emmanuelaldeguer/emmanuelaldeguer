@@ -1,4 +1,4 @@
-![image](https://github.com/emmanuelaldeguer/emmanuelaldeguer/assets/105917321/c8fcd08e-893e-4e0b-98ec-b4eca13930ff)
+[![axone github banner](/profile/static/axone-banner.png)](https://axone.xyz)
 
 
 ### Hi there 👋
