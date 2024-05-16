@@ -1,5 +1,4 @@
-/profile/static/axone-banner.png](https://axone.xyz)
-
+[![axone github banner](/axone-banner.png)](https://axone.xyz)
 
 ### Hi there 👋
 
